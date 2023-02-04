@@ -3,7 +3,6 @@ package main
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/ffha/goproxy-gin/middleware"
-	"fmt"
 )
 
 
