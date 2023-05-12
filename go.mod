@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/gin-contrib/cache v1.2.0
 	github.com/gin-gonic/gin v1.8.2
-	github.com/goproxy/goproxy v0.13.0
+	github.com/goproxy/goproxy v0.14.0
 )
 
 require (
